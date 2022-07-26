@@ -1,7 +1,9 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/nguyenha.svg" width="1200" alt="" />
 </a>
+
+# <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
@@ -55,6 +57,7 @@
 <br>
 
 <h2 align="center">👽 Where to find me 👽</h2>
+
 <br>
 <!-- https://icons8.com -->
 <div align="center">
@@ -78,11 +81,19 @@
 
 <br>
 
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<div align="center" width="0">
+
+ <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30" />
+ <h2> Vibing to : 🎧  </strong> </2>
+
+ [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+
+</div>
+
+<h2 align="center">🚀 My Favorites Quote 🚀</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
+  <img src="svg/nguyenha-quotes.svg" width="846" height="150" alt="trungquandev-official" />
 </a>
-
 
 
